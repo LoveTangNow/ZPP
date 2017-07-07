@@ -28,10 +28,5 @@ dependencies {
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     compile 'com.android.support:support-v4:25.3.1'
 
-    compile 'com.amap.api:3dmap:latest.integration'
-    compile 'com.amap.api:navi-3dmap:latest.integration'
-    compile 'com.amap.api:search:latest.integration'
-    compile 'com.amap.api:location:latest.integration'
-
     testCompile 'junit:junit:4.12'
 }

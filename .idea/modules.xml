@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ZPP.iml" filepath="$PROJECT_DIR$/ZPP.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_tv/app_tv.iml" filepath="$PROJECT_DIR$/app_tv/app_tv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zpp_ware/zpp_ware.iml" filepath="$PROJECT_DIR$/zpp_ware/zpp_ware.iml" />
     </modules>
   </component>
 </project>
